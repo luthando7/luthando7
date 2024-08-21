@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luthando Zaze @luthando7
 - 👀 I’m interested in engines, software other software is built on
-- 🌱 I’m currently learning the mean stack
+- 🌱 Growth is an uncomfortable process, but it is a necessary investment for progress
 - 💞️ I’m looking to collaborate on an open source project
 - 📫 How to reach me: luthandozaze@gmail.com
 
